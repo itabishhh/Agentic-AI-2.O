@@ -1,0 +1,14 @@
+# Agentic-AI-2.O
+# Autonomous Research Agent 🤖
+An AI agent built with **LangChain** and **GPT-4** that performs web research and generates structured reports.
+
+## Features
+- **ReAct Agent** logic for multi-step reasoning.
+- **Tavily Search** for real-time web data.
+- **Wikipedia Tool** for historical/factual data.
+
+## Setup
+1. Clone the repo: `git clone <your-url>`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Add your API keys to a `.env` file.
+4. Run: `python main.py`
